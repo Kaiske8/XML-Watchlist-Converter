@@ -12,8 +12,11 @@
 * **Requests library**: Install it using:
   ```bash
   pip install requests
- ##How to use
+  ```
+ ## How to use
   Place your watching.json, completed.json, and plan-to-watch.json files in the project folder.
   Run the script:
+  ```bash
   python merge.py
-## Your converted XML file will be generated in the same directory.
+```
+Your converted XML file will be generated in the same directory.
